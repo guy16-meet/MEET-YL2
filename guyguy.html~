@@ -1,0 +1,42 @@
+<html>
+	<head>
+		<title> Guyguy </title>
+			<style>
+				h1{ color:darkblue }
+				h3{ color:blue }
+				h5{ color:#0099FF}
+				li.one{ color:darkblue }
+				li.two{ color:blue }
+				li.three{ color:#0099FF }
+				form { color:blue }
+				
+			</style>
+	</head>
+
+	<body bgcolor = "aqua">
+	<div align = "center">
+		<h1>Guyguy</h1>
+		<h3>is the</h3>
+		<h5>BEST</h5>
+		
+		<a href = "https://www.google.co.il/search?q=g&client=ubuntu&hs=aQ0&channel=fs&source=lnms&tbm=isch&sa=X&ved=0CAgQ_AUoAWoVChMIusG8ieS6yAIVyD4UCh2P4ws0&biw=1391&bih=663#imgrc=PHD1izQWbmaSiM%3A">google "g"</a> <br><br>
+		<img src ="https://upload.wikimedia.org/wikipedia/commons/e/e4/Blue_square_G.PNG"> <br><br>
+		<ol type = "1">
+			<li class ="one"> G </li><br>
+			<li class ="two"> U</li><br>
+			<li class ="three"> Y</li><br>
+			<li class ="one"> G </li><br>
+			<li class ="two"> U</li><br>
+			<li class ="three"> Y</li><br>
+		</ol>
+		<form>
+			name:
+			<input type = "text" name = "name"><br>
+			do you like guyguy?
+			<input type = "radio" name = "yoy">yes
+			<input type = "radio" name = "yoy">yes<br>
+			<input type = "submit" value = "send">
+		</form>
+	</div>
+	</body>
+</html>
