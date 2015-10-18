@@ -17,5 +17,5 @@ body{ background-image:url("bg.jpg");}
 	margin: 40px;
 	}
 .menu a:hover {
-      background-color: #5EC7FF;
+      background-color: #005f5f;
     }
