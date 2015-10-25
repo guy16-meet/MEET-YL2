@@ -1,4 +1,13 @@
-body{ background-image:url("bg.jpg");}
+body{ 	
+	background-image:url("bg.jpg");
+	background-repeat: no-repeat;
+	background-size: 2000px;
+	font-family: "Arial";}
+a{	
+	
+	text-decoration: none;
+	color: cyan;
+	font-weight:bold;}
 
 .menu {	
 	text-align:center; 
@@ -17,5 +26,5 @@ body{ background-image:url("bg.jpg");}
 	margin: 40px;
 	}
 .menu a:hover {
-      background-color: #005f5f;
+      background-color: #5EC7FF;
     }
