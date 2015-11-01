@@ -1,8 +1,19 @@
+@font-face {
+	font-family:"boom";
+	src:url("hl.ttf");}
+@font-face {
+	font-family:"td";
+	src:url("3d.ttf");}
+@font-face {
+	font-family:"broken";
+	src:url("broken.ttf");}
+
+
 body{ 	
 	background-image:url("bg.jpg");
 	background-repeat: no-repeat;
 	background-size: 2000px;
-	font-family: "Arial";
+	font-family:"td";
 	font-size:30px;}
 a{	
 	

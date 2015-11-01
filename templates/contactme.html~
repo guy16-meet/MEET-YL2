@@ -1,0 +1,26 @@
+<html> 
+<head>
+<title> About Me </title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class = "menu">
+<ul>
+  <a href="home.html">Home</a>
+  <a href="aboutme.html">About Me</a>
+  <a href="contactme.html">Contact Me</a>
+</ul>
+</div>
+<div align = "center">
+<h1> Contact Me </h1>
+<br>
+<form>
+First Name: <input type = "text" name = "fname"><br><br>
+Last Name: <input type = "text" name = "fname"><br><br>
+Email: <input type = "email" name = "fname"><br><br>
+<input type = "submit" value = "send!"><br><br>
+
+</form>
+</div>
+</body>
+</html>
